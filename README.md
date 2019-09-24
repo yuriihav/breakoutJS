@@ -1,2 +1,2 @@
-# tetrS
-Practicing in git and making a tetris game
+# breakoutJS
+Practicing in git and making a "Breakout" game
